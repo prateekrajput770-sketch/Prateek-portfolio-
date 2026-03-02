@@ -8,7 +8,7 @@
             margin: 0;
             font-family: Arial, sans-serif;
             background-color: #111;
-            color: white;
+            color: blue;
             text-align: center;
         }
 
@@ -17,7 +17,7 @@
         }
 
         h1 {
-            font-size: 50px;
+            font-size: 100px;
             color: #00ff99;
         }
 
