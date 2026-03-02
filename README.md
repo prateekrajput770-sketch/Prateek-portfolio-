@@ -63,9 +63,7 @@
     <h2>Skills</h2>
     <div class="box">
         <p>HTML, CSS, Basic JavaScript, Startup Ideas</p>
-    </div>
-</section>
-
+    
 <section>
     <h2>Projects</h2>
     <div class="box">
