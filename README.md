@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Prateek Portfolio</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
     <style>
         body {
             margin: 0;
@@ -13,11 +13,11 @@
         }
 
         header {
-            padding: 50px 20px;
+            padding: 80px 20px;
         }
 
         h1 {
-            font-size: 40px;
+            font-size: 50px;
             color: #00ff99;
         }
 
@@ -34,7 +34,7 @@
         }
 
         a {
-            color: #00ff99;
+            color: #blue;
             text-decoration: none;
         }
 
@@ -70,14 +70,14 @@
     <h2>Projects</h2>
     <div class="box">
         <p>Flash App Concept</p>
-        <p>PVD Watches Brand Idea</p>
+        <p>Emi app idea concept</p>
     </div>
 </section>
 
 <section>
     <h2>Contact</h2>
     <div class="box">
-        <p>Email: your@email.com</p>
+        <p>Email: prateek@email.com</p>
     </div>
 </section>
 
